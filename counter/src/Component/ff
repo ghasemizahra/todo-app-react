@@ -1,0 +1,37 @@
+.card{
+    border: 1px solid white;
+    width: 90px;
+    padding: 40px;
+    display: flex;
+}
+.card:hover{
+    border: 1px solid #ffc451;
+}
+ .card-content {
+    width: 80px;
+    height: 50px;
+    color: #ffc451;
+        font-size: 50px;
+        line-height: 1;
+
+}
+.mycard{
+         /* height: 125vh; 
+         width: 100%;  */
+        padding-left: 10px;
+        padding-right: 10px;
+        display: flex;
+        justify-content:center;
+        margin-top: 30px;
+}
+.content{
+    text-align: center;
+  
+}
+.card-content2{
+    color: white;
+  padding-top: 5px;
+}
+.card-content2:hover{
+    color: #ffc451;
+}
