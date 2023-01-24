@@ -35,3 +35,14 @@
 .card-content2:hover{
     color: #ffc451;
 }
+///
+html
+<div className="mycard">
+    <div className="card">
+    <div className="content">
+<div className="card-content">{icone}</div>
+<h3 className="card-content2" >{text}</h3>
+<p>{txt}</p>
+</div>
+</div>
+</div>
